@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zjmne32i3-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zjmne32i3-dotnet-basic
